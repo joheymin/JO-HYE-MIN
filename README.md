@@ -1,1 +1,3 @@
-# JO-HYE-MIN
+# hello world
+
+hi I'm jo hye min
